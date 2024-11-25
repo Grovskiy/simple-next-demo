@@ -1,0 +1,31 @@
+{
+  "home": {
+    "title": "Welcome to demo landing page",
+    "heading": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae deleniti obcaecati temporibus!",
+    "description": "The best app to manage your life effectively.",
+    "buttonText": "Get Started Now",
+    "imageSrc": "/images/main-img.webp",
+    "imageAlt": "Hero image"
+  },
+  "features": {
+    "title": "This page handle JSON without use client by fetching the data on the server. rendering the page as complete HTML, and sending it to the browser.",
+    "heading": "This approach avoids extra JavaScript on the client, improves performance, enhances SEO, and simplifies the process by letting the server do all the heavy lifting before the page is delivered.",
+    "list": [
+      {
+        "icon": "🚀",
+        "title": "Fast Performance",
+        "description": "Experience lightning-fast speed with our app."
+      },
+      {
+        "icon": "🔒",
+        "title": "Secure",
+        "description": "Your data is safe with us, always."
+      },
+      {
+        "icon": "📱",
+        "title": "Mobile Friendly",
+        "description": "Optimized for all devices and screens."
+      }
+    ]
+  }
+}
